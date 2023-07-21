@@ -42,3 +42,7 @@ A Fake OS made in python
     - -**n**
         - used to re**n**ame directory 
         - syntax: `dir -n newname`
+- nav
+    - -**b**
+        - used to navigate **b**ack to the parent directory
+        - syntax: `nav -b`
